@@ -56,7 +56,6 @@
 .footer_overall
 {
     margin: 5%;
-    height: 35vh;
     align-content: center;
     display: flex;
     justify-content: space-evenly;
@@ -185,7 +184,7 @@ a{
         font-size: 9px;
     }
 }
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 650px) {
     .footer{
         display: flex;
         flex-direction: column;

@@ -43,7 +43,6 @@
 
 <style>
 .services_overall{
-    height: 20vh;
     align-content: center;
     display: flex;
     justify-content: space-evenly;
@@ -94,9 +93,6 @@
         display:flex;
         flex-direction: column;
         row-gap: 2vh;
-    }
-    .services_overall{
-        height: 45vh;
     }
 }
 </style>
